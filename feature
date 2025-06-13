@@ -1,1 +1,1 @@
-feature 1 third commit
+conflict2
